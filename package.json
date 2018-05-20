@@ -1,0 +1,23 @@
+{
+  "name": "devbook-seed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docs-code/devbook-seed.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/docs-code/devbook-seed/issues"
+  },
+  "homepage": "https://github.com/docs-code/devbook-seed#readme",
+  "dependencies": {
+    "firebase-admin": "^5.12.1",
+    "firebase-functions": "^1.0.2"
+  }
+}

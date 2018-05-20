@@ -1,0 +1,60 @@
+{
+  "groups": {
+    "SarahLearningTeam": {
+      "users": {
+        "Jang": {
+          "exists": true
+        },
+        "Connor": {
+          "exists": true
+        },
+        "Ben": {
+          "exists": true
+        },
+        "Fred": {
+          "exists": true
+        },
+        "Sarah": {
+          "exists": true
+        }
+      }
+    }
+  },
+  "users": {
+    "Jang": {
+      "groups": {
+        "SarahLearningTeam": {
+          "exists": true
+        }
+      }
+    },
+    "Connor": {
+      "groups": {
+        "SarahLearningTeam": {
+          "exists": true
+        }
+      }
+    },
+    "Ben": {
+      "groups": {
+        "SarahLearningTeam": {
+          "exists": true
+        }
+      }
+    },
+    "Fred": {
+      "groups": {
+        "SarahLearningTeam": {
+          "exists": true
+        }
+      }
+    },
+    "Sarah": {
+      "groups": {
+        "SarahLearningTeam": {
+          "exists": true
+        }
+      }
+    }
+  }
+}
